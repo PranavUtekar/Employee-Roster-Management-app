@@ -4,16 +4,6 @@ A multi-brand operational roster intelligence and shift management application b
 
 ---
 
-## 🔗 Submission Details
-
-* **Live Application URL:** [Add your deployed URL here, e.g., Vercel / Netlify]
-* **GitHub Repository:** [https://github.com/PranavUtekar/Employee-Roster-Management-app](https://github.com/PranavUtekar/Employee-Roster-Management-app)
-* **Demo Video Walkthrough:** [Add your 3–5 min Loom/Drive video link here]
-* **Candidate LinkedIn:** [Add your LinkedIn Profile URL here]
-* **Candidate Name:** Pranav Utekar
-
----
-
 ## 💡 2–3 Sentence Approach Note
 
 To solve multi-brand operational vulnerability without generating silent coverage voids, the system implements a deterministic, rule-based scheduling engine paired with an intelligent backup matching algorithm[cite: 1, 3, 5, 6]. It separates a brand's operating requirements from individual worker schedules, prioritizing mandatory client coverage days over secondary preferences[cite: 3, 4]. When absences occur, the engine flags unstaffed brand shifts and balances workloads by auto-matching eligible on-duty pod peers who are not on leave, have no pending swaps, and hold $\le$ 2 concurrent brand desks[cite: 3, 4].
